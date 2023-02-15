@@ -1,5 +1,5 @@
 ## Live demo url ##
-- https://nuronmarketplace.netlify.app/
+- https://marketplace-nft-staking.vercel.app/
 
 ## thirdweb NFT Marketplace with chakra-UI template
 
