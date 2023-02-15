@@ -1,3 +1,6 @@
+## Live demo url ##
+- https://nuronmarketplace.netlify.app/
+
 ## thirdweb NFT Marketplace with chakra-UI template
 
 ## contracts
